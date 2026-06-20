@@ -14,4 +14,4 @@
 
 ## Dashboard Screenshot
 
-![Dashboard](dashboard.png)
+![Dashboard](IMG_20260620_124956.jpg)
